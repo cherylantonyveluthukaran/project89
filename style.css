@@ -1,3 +1,25 @@
+
+h1{
+    text-align:center;
+}
+
+#player1_name_input,#player2_name_input
+ {
+display:inline-block;
+margin-left:20px;
+}
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        text-align: center;
+	}
+
+
+
 #output{
     background-color: aliceblue;
     border-radius:10px;
@@ -5,7 +27,4 @@
     padding:10px;
     float:none;
     text-align:left;
-}
-h1{
-    text-align:center;
 }
